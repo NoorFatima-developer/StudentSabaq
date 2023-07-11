@@ -1,4 +1,4 @@
-package com.example.studentsabaq;
+package com.example.studentsabaq; //package
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
